@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.baidu.com/) and ![Image](src)
+[Link](http://www.cnblogs.com/jacksu-tencent/p/3871755.html) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
