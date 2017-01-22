@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/Linuxzhe/Linuxzhe.github.io/edit/master/REDME.md) and ![Image](src)
+[Link](https://github.com/Linuxzhe/Linuxzhe.github.io/REDME.md) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
